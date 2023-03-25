@@ -1,0 +1,5 @@
+Step by step to using this source code 
+1. Clone source code
+2. Chose the appropriate DEV KIT and revise the definition of pin out (optional)
+3. Compile the source code to get the binary file
+4. Flash the source code to device 
